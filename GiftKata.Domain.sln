@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GiftKata.Domain", "GiftKata.Domain\GiftKata.Domain.fsproj", "{C059C168-4491-4E0E-ACA1-81CD31BC401C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GiftKata.Tests", "GiftKata.Tests\GiftKata.Tests.fsproj", "{4E5AAC6E-660A-48F9-9187-7C4DCC8A22A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C059C168-4491-4E0E-ACA1-81CD31BC401C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C059C168-4491-4E0E-ACA1-81CD31BC401C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C059C168-4491-4E0E-ACA1-81CD31BC401C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C059C168-4491-4E0E-ACA1-81CD31BC401C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5AAC6E-660A-48F9-9187-7C4DCC8A22A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5AAC6E-660A-48F9-9187-7C4DCC8A22A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5AAC6E-660A-48F9-9187-7C4DCC8A22A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5AAC6E-660A-48F9-9187-7C4DCC8A22A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
